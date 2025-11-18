@@ -4,12 +4,12 @@ A real-time push-up counting system that uses computer vision and pose estimatio
 
 ## Features
 
-- 🔥 **Real-time pose detection** using MediaPipe
-- 📊 **Live push-up counter** with visual feedback
-- 📐 **Angle calculation** for precise movement detection
-- 🎯 **Smart detection** of up/down positions
-- 📹 **Webcam integration** with OpenCV
-- 🎨 **Visual overlay** showing counter, angle, and stage
+-  **Real-time pose detection** using MediaPipe
+-  **Live push-up counter** with visual feedback
+-  **Angle calculation** for precise movement detection
+-  **Smart detection** of up/down positions
+-  **Webcam integration** with OpenCV
+-  **Visual overlay** showing counter, angle, and stage
 
 ## Installation
 
@@ -119,8 +119,9 @@ A real-time push-up counting system that uses computer vision and pose estimatio
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is created by Krish Israni from Scrap.
 
 ## Contributing
+
 
 Feel free to submit issues, feature requests, or pull requests to improve this project! 
